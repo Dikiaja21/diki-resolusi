@@ -3,4 +3,4 @@ diki resolusi
 - belajar logika dan recure function secepatnya
 - ingin belajar css secepatnya
 - ingin menjadi programmer
-- ingin membuat sebuah aplikasi apa saja
+- membuat market place sendiri
